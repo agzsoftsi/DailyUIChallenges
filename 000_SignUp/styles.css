@@ -47,20 +47,20 @@
 }
 .panel-general .panel-info .info-title h1 span{
     background-color: transparent;
-    color: #00C2FF;
+    color: #006685;
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
     font-style: italic;
 }
 
 .panel-general .panel-info .info-title img{
-    width: 115px;
+    width: 120px;
     height: 81px;
 }
 
 .panel-general .panel-info > p{
     background-color: transparent;
-    color: #00C2FF;
+    color: #006685;
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
     font-style: italic;
@@ -93,7 +93,7 @@
 
 .panel-general .panel-info h2 span{
     background-color: transparent;
-    color: #00C2FF;
+    color: #006685;
 }
 
 .panel-general .panel-form{
@@ -109,7 +109,7 @@
 
 .panel-general .panel-form h2{
     font-size: 34px;
-    color: #00C2FF;
+    color: #006685;
     margin-top: 56px;
     background-color: transparent;
     font-weight: 900;
@@ -135,7 +135,7 @@
 }
 
 .panel-general .panel-form .signin-social span:hover{
-    background-color: #00C2FF;
+    background-color: #006685;
     transition: linear 0.2S;
     
 }
@@ -233,7 +233,7 @@
 
   .panel-general .panel-form .inputs .contract label span{
     background-color: transparent;
-    color: #00C2FF;
+    color: #006685;
    cursor: pointer;
   }
 
@@ -253,9 +253,9 @@
     width: 162px;
     height: 52px;
     border-radius: 7px;  
-    border: 2px solid #00C2FF;
+    border: 2px solid #006685;
     background-color: white;
-    color: #00C2FF;
+    color: #006685;
     font-weight: 700;
     font-size: 17px;
     transition: linear 0.3s;
@@ -269,8 +269,8 @@
     width: 162px;
     height: 52px;
     border-radius: 7px;  
-    border: 2px solid #00C2FF;
-    background-color: #00C2FF;
+    border: 2px solid #006685;
+    background-color: #006685;
     color: #ffffff;
     font-weight: 700;
     transition: linear 0.3s;
